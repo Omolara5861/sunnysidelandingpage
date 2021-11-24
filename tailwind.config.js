@@ -27,8 +27,8 @@ module.exports = {
 
       backgroundImage: {
         // Header section
-        desktop: "url('public/images/desktop/image-header.jpg')",
-        mobile: "url('public/images/mobile/image-header.jpg')",
+        desktop: "url('images/desktop/image-header.jpg')",
+        mobile: "url('images/mobile/image-header.jpg')",
       },
 
       height: {
