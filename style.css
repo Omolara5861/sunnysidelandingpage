@@ -17834,11 +17834,11 @@ video {
 }
 
 .bg-desktop{
-  background-image: url('images/desktop/image-header.jpg');
+  background-image: url('./images/desktop/image-header.jpg');
 }
 
 .bg-mobile{
-  background-image: url('images/mobile/image-header.jpg');
+  background-image: url('./images/mobile/image-header.jpg');
 }
 
 .from-transparent{
@@ -49666,11 +49666,11 @@ video {
   }
 
   .sm\:bg-desktop{
-    background-image: url('images/desktop/image-header.jpg');
+    background-image: url('./images/desktop/image-header.jpg');
   }
 
   .sm\:bg-mobile{
-    background-image: url('images/mobile/image-header.jpg');
+    background-image: url('./images/mobile/image-header.jpg');
   }
 
   .sm\:from-transparent{
@@ -81040,11 +81040,11 @@ video {
   }
 
   .md\:bg-desktop{
-    background-image: url('images/desktop/image-header.jpg');
+    background-image: url('./images/desktop/image-header.jpg');
   }
 
   .md\:bg-mobile{
-    background-image: url('images/mobile/image-header.jpg');
+    background-image: url('./images/mobile/image-header.jpg');
   }
 
   .md\:from-transparent{
@@ -112414,11 +112414,11 @@ video {
   }
 
   .lg\:bg-desktop{
-    background-image: url('images/desktop/image-header.jpg');
+    background-image: url('./images/desktop/image-header.jpg');
   }
 
   .lg\:bg-mobile{
-    background-image: url('images/mobile/image-header.jpg');
+    background-image: url('./images/mobile/image-header.jpg');
   }
 
   .lg\:from-transparent{
@@ -143788,11 +143788,11 @@ video {
   }
 
   .xl\:bg-desktop{
-    background-image: url('images/desktop/image-header.jpg');
+    background-image: url('./images/desktop/image-header.jpg');
   }
 
   .xl\:bg-mobile{
-    background-image: url('images/mobile/image-header.jpg');
+    background-image: url('./images/mobile/image-header.jpg');
   }
 
   .xl\:from-transparent{
@@ -175162,11 +175162,11 @@ video {
   }
 
   .\32xl\:bg-desktop{
-    background-image: url('images/desktop/image-header.jpg');
+    background-image: url('./images/desktop/image-header.jpg');
   }
 
   .\32xl\:bg-mobile{
-    background-image: url('images/mobile/image-header.jpg');
+    background-image: url('./images/mobile/image-header.jpg');
   }
 
   .\32xl\:from-transparent{
